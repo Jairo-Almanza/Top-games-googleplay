@@ -10,21 +10,23 @@ Este dataset contiene el top 100 de videojuegos por cada categoría en Google Pl
 
 Columnas
 
-Rank: Posición del videojueo en una categoria en particular.
-Title: Nombre del videojuego.
-Total ratings: Número total de calificaciones.
-Installs: Número de instalaciones apróximado.
-Average rating: Calificación promedio hasta 5.
-Growth (30 days): Crecimiento porcentual en 30 días.
-Growth (60 days): Crecimiento porcentual en 60 días.
-Price: Precio en dolares.
+*Rank: Posición del videojueo en una categoria en particular.
+*Title: Nombre del videojuego.
+*Total ratings: Número total de calificaciones.
+*Installs: Número de instalaciones apróximado.
+*Average rating: Calificación promedio hasta 5.
+*Growth (30 days): Crecimiento porcentual en 30 días.
+*Growth (60 days): Crecimiento porcentual en 60 días.
+*Price: Precio en dolares.
+
 Category: Categoría del videojuego.
-5 star ratings: Número de calificaciones de 5 estrellas.
-4 star ratings: Número de calificaciones de 4 estrellas.
-3 star ratings: Número de calificaciones de 3 estrellas.
-2 star ratings: Número de calificaciones de 2 estrellas.
-1 star ratings: Número de calificaciones de 1 estrella.
-Paid: Es un videojuego pago (True) o gratis (False).
+*5 star ratings: Número de calificaciones de 5 estrellas.
+*4 star ratings: Número de calificaciones de 4 estrellas.
+*3 star ratings: Número de calificaciones de 3 estrellas.
+*2 star ratings: Número de calificaciones de 2 estrellas.
+*1 star ratings: Número de calificaciones de 1 estrella.
+*Paid: Es un videojuego pago (True) o gratis (False).
+
 Aclaraciones
 
 El crecimiento porcentual se caulcula teniendo en cuenta la cantidad total de instalaciones y la cantidad total de calificaciones, con ello encontrar el porcentaje de crecimiento promedio.
